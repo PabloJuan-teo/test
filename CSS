@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DESCULPA POR SER ASSIM</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #ff7e5f, #feb47b); 
+            font-family: Arial, sans-serif;
+            color: #333; 
+            text-align: center;
+            padding: 20px;
+            margin: 0; /* Retira margens padrões para evitar que a página quebre em dispositivos móveis */
+        }
+
+        h1 {
+            color: #fff;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin: 10px 0;
+        }
+
+        img {
+            max-width: 100%;  /* Garante que a imagem ocupe a largura máxima da tela */
+            height: auto;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+
+        /* Ajuste de Responsividade para telas menores */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 24px;
+            }
+
+            p {
+                font-size: 16px; /* Ajuste no tamanho da fonte para telas pequenas */
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>ME PERDOA</h1>
+    <p>Eu sei que, muitas vezes, as palavras não são suficientes para expressar o que sinto,</p>
+    <p>mas mesmo assim preciso pedir desculpas.</p>
+    <p>Sinto muito por ser assim, por não ter agido como você esperava ou merecia.</p>
+    <p>Sei que às vezes posso ser difícil, impreciso ou até mesmo ausente quando você mais precisa.</p>
+    <p>Não é fácil para mim admitir isso, mas sei que é necessário.</p>
+    <p>Reconheço que minhas atitudes podem machucar, mesmo sem a intenção, e isso me dói profundamente.</p>
+    <p>Eu não queria te magoar, não queria que você se sentisse desvalorizada ou ignorada.</p>
+    <p>Prometo que estou tentando melhorar, a cada dia, a cada erro.</p>
+    <p>Quero ser alguém melhor para você, alguém que te faça sentir cuidada e respeitada.</p>
+    <p>Sei que palavras podem soar vazias, então estou disposto a mostrar isso nas minhas ações.</p>
+    <p>Desculpe por ser assim, por não estar sempre à altura do que você merece.</p>
+    <p>Espero que, com o tempo, eu possa te mostrar o quanto me importo.</p>
+    <p>Amo você e o Noah.</p>
+    <p>Me perdoa!</p>
+    <p>At. Juan</p>
+
+    <!-- Imagens -->
+    <img src="COD1/noah-karen.jpg" alt="Imagem de Noah Karen">
+    <img src="COD1/LOGO2.JPG" alt="Imagem do LOGO 2">
+    <img src="COD1/LOGO3.jpg" alt="Imagem de Noah Karen">
+    <img src="COD1/LOGO4.jpg" alt="Imagem de Noah Karen">
+</body>
+
+</html>
